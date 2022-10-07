@@ -4,11 +4,12 @@ const ButtonGroup = () => {
   return (
     <>
       <div>
-        <a href="/">Checkout</a>
+        <button>
+          <a href="/">Checkout</a>
+        </button>
       </div>
       <div>
         <button>Continua Comprando</button>
-        <a href="/">Checkout</a>
       </div>
     </>
   )
